@@ -1,6 +1,6 @@
 Script permettant de rediriger automatiquement l'URL des publications/journaux scientifiques vers sa version pour l'Université Paul Sabatier, permettant de consulter les articles gratuitement.
 
-⚠️⚠️⚠️ Ce script ne marche que pour les personnes membres de l'Université Toulouse III Paul Sabatier ⚠️⚠️⚠️
+⚠️⚠️⚠️ Ce script ne marche que pour les personnes membre de l'Université Toulouse III Paul Sabatier ⚠️⚠️⚠️
 
 Supporte pour l'instant les sites suivants :
 - [ACM DL](https://dl.acm.org/)
