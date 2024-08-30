@@ -1,4 +1,4 @@
-Script permettant de rediriger automatiquement l'URL des publications/journaux scientifiques vers sa version pour l'Université Paul Sabatier, permettant de consulter les articles gratuitement.
+Script permettant de rediriger automatiquement l'URL des publications/journaux scientifiques vers sa version pour l'Université Paul Sabatier, permettant de consulter les articles gratuitement (si l'université y est abonné).
 
 ⚠️⚠️⚠️ Ce script ne marche que pour les personnes membre de l'Université Toulouse III Paul Sabatier ⚠️⚠️⚠️
 
