@@ -10,6 +10,7 @@
 // @match        https://link.springer.com/*
 // @match        https://www.science.org/*
 // @match        https://www.jstor.org/*
+// @match        https://www.taylorfrancis.com/*
 // @grant        none
 // ==/UserScript==
 
@@ -20,7 +21,8 @@ const arr = [
     { key: 'https://ieeexplore.ieee.org', value: 'https://ieeexplore-ieee-org.gorgone.univ-toulouse.fr' },
     { key: 'https://link.springer.com', value:'https://link-springer-com.gorgone.univ-toulouse.fr'},
     { key: 'https://www.science.org', value:'https://www-science-org.gorgone.univ-toulouse.fr'},
-    { key: 'https://www.jstor.org', value:'https://www-jstor-org.gorgone.univ-toulouse.fr'}
+    { key: 'https://www.jstor.org', value:'https://www-jstor-org.gorgone.univ-toulouse.fr'},
+    { key: 'https://www.taylorfrancis.com', value:'https://www-taylorfrancis-com.gorgone.univ-toulouse.fr'}
   ];
   const urls = new Map(arr.map((obj) => [obj.key, obj.value]));
 
