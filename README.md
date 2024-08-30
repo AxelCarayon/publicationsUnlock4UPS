@@ -14,5 +14,5 @@ Je n'ai mis que les site abonnés dont je me sers mais [la liste de tout les abo
 
 # Comment installer ?
 1. Installer l'extension [Tampermonkey](https://www.tampermonkey.net/) sur votre navigateur préféré
-2. [Cliquez ici pour installer le script](https://github.com/AxelCarayon/IEEE2UPS/raw/main/IEEE%20to%20UPS%20IEEE.user.js)
+2. [Cliquez ici pour installer le script](https://github.com/AxelCarayon/publicationsUnlock4UPS/raw/main/publication_URL_to_UPS_URL.user.js)
 3. Fini 🙂
