@@ -4,6 +4,7 @@ Script permettant de rediriger automatiquement l'URL des publications/journaux s
 
 Supporte pour l'instant les sites suivants :
 - [ACM DL](https://dl.acm.org/)
+- [Google Scholar](https://scholar.google.com/): affiche le lien vers Archipel
 - [IEEE Explore](https://ieeexplore.ieee.org/)
 - [JSTOR](https://www.jstor.org/)
 - [Science](https://www.science.org/)
