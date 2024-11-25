@@ -7,6 +7,7 @@ Supporte pour l'instant les sites suivants :
 - [Google Scholar](https://scholar.google.com/): affiche le lien vers Archipel
 - [IEEE Explore](https://ieeexplore.ieee.org/)
 - [JSTOR](https://www.jstor.org/)
+- [PUBMED](https://pubmed.ncbi.nlm.nih.gov/)
 - [Science](https://www.science.org/)
 - [ScienceDirect](https://www.sciencedirect.com/)
 - [Springer](https://link.springer.com/)
