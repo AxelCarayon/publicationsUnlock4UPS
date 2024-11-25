@@ -13,6 +13,7 @@
 // @match        https://www.taylorfrancis.com/*
 // @match        https://scholar.google.com/*
 // @match        https://scholar.google.fr/*
+// @match        https://pubmed.ncbi.nlm.nih.gov/*
 // @grant        none
 // ==/UserScript==
 
@@ -38,7 +39,8 @@ const arr = [
     { key: 'https://link.springer.com', value:'https://link-springer-com.gorgone.univ-toulouse.fr'},
     { key: 'https://www.science.org', value:'https://www-science-org.gorgone.univ-toulouse.fr'},
     { key: 'https://www.jstor.org', value:'https://www-jstor-org.gorgone.univ-toulouse.fr'},
-    { key: 'https://www.taylorfrancis.com', value:'https://www-taylorfrancis-com.gorgone.univ-toulouse.fr'}
+    { key: 'https://www.taylorfrancis.com', value:'https://www-taylorfrancis-com.gorgone.univ-toulouse.fr'},
+    { key: 'https://pubmed.ncbi.nlm.nih.gov', value:'https://pubmed-ncbi-nlm-nih-gov.gorgone.univ-toulouse.fr'}
   ];
 const urls = new Map(arr.map((obj) => [obj.key, obj.value]));
 
